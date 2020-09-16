@@ -367,10 +367,6 @@ section:nth-child(2n + 1) {
     padding: 10px;
 }
 
-.portfolio-detail : .a{
-    color:grey;
-}
-
 .portfolio-image-container:hover {
     box-shadow: 0 0 20px #74ADC8;
 }
@@ -496,7 +492,6 @@ button:focus {
 }
 
 /* Common Text Align Classes */
-<<<<<<< HEAD
 
 .text-right{
     text-align: right;
@@ -506,7 +501,6 @@ button:focus {
     text-align: center;
 }
 
-=======
 
 .text-right{
     text-align: right;
@@ -516,7 +510,6 @@ button:focus {
     text-align: center;
 }
 
->>>>>>> af4fdb40ecbb22234df97a80bcd9baea847ddbc2
 .text-justify {
     text-align: justify;
 }
