@@ -496,6 +496,7 @@ button:focus {
 }
 
 /* Common Text Align Classes */
+<<<<<<< HEAD
 
 .text-right{
     text-align: right;
@@ -505,6 +506,17 @@ button:focus {
     text-align: center;
 }
 
+=======
+
+.text-right{
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+>>>>>>> af4fdb40ecbb22234df97a80bcd9baea847ddbc2
 .text-justify {
     text-align: justify;
 }
